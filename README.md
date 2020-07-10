@@ -22,7 +22,7 @@
 
 🔭 I’m currently a second year student and learning at Faculty of Information Technology, Ho Chi Minh University of Science, Vietnam National University HCM City
 
-🌱 I'm just like Mathematics and have a passion with Information Technology (IT). Someday, I wanna become a godd Software Enginneer/ Programmer. :)
+🌱 I'm just like Mathematics and have a passion with Information Technology (IT). Someday, I wanna become a "good" Software Enginneer/ Programmer. :)
 
 😄 I like making friend and learn programming =))
 
