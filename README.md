@@ -19,14 +19,13 @@
                                                      __/ |                                                              
                                                     |___/                                                               
 ```
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lenhutnam298&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenhutnam298" />
+</a>
 
-🔭 I’m currently a second year student and learning at Faculty of Information Technology, Ho Chi Minh University of Science, Vietnam National University HCM City
-
-🌱 I'm just like Mathematics and have a passion with Information Technology (IT). Someday, I wanna become a "good" Software Enginneer/ Programmer. :)
-
-😄 I like making friend and learn programming =))
-
-![](https://cdn151.picsart.com/222034747017201.gif?to=min&r=640)
 <!--
 **lenhutnam298/lenhutnam298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
